@@ -268,7 +268,7 @@ Be direct and technical. No bullet points."""
         import google.generativeai as genai
 
         genai.configure(api_key=api_key)
-        model = genai.GenerativeModel("gemini-1.5-flash")
+        model = genai.GenerativeModel("gemini-2.5-flash")
         return model.generate_content(prompt).text.strip()
     except Exception as e:
         return (
