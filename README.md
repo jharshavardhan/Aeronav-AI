@@ -47,7 +47,8 @@ AeroNav AI addresses this by providing an intelligent system for eco-efficient f
 - IPyWidgets  
 - Google Gemini API  
 - MongoDB Atlas  
-- Jupyter Notebook  
+- Jupyter Notebook
+- Streamlit
 
 ---
 
